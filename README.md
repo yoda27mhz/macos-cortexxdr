@@ -1,6 +1,7 @@
 # MacOS - Uninstall Cortex XDR without know password
 ## Source
 https://0xsp.com/security%20research%20%20development%20srd/combined-attacks-against-xdr/
+
 https://mrd0x.com/cortex-xdr-analysis-and-bypass/
 ## Objective
 Try to find the password for stop the service and uninstall Cortex XDR, with force brute attack.
